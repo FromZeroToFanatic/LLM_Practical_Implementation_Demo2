@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 学习资料
+## 学习资料
 
 - **【框架】** FastAPI 后端框架  
 - **【学习视频】** [Bilibili 教程：FastAPI部署实战](https://www.bilibili.com/video/BV18L41117Dn)  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 实战部署：清华 ChatGLM2-6B 开源大模型
+## 实战部署：清华 ChatGLM2-6B 开源大模型
 
 - **【FastAPI 接口源码】**  
   [openai_api.py（官方实现）](https://github.com/THUDM/ChatGLM2-6B/blob/main/openai_api.py)
