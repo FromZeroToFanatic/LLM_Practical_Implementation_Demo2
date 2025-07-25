@@ -2,7 +2,7 @@
 
 ## 学习资料
 
-### 框架：FastAPI 后端框架  
+### 框架：FastAPI 后端框架  （✅）
 - **【学习视频】** [Bilibili 教程：FastAPI部署实战](https://www.bilibili.com/video/BV18L41117Dn)  
 - **【FastAPI 文档】** [https://fastapi.tiangolo.com/zh/tutorial/](https://fastapi.tiangolo.com/zh/tutorial/)  
 - **【协程学习】** [协程 GitHub 学习资源](https://github.com/SparksFly8/Learning_Python/tree/master/coroutine)  
