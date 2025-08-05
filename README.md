@@ -4,7 +4,7 @@
 
 ### 框架：FastAPI 后端框架  （✅）
 - **【FastAPI 文档】** [https://fastapi.tiangolo.com/zh/tutorial/](https://fastapi.tiangolo.com/zh/tutorial/)  
-- **【附加视频】** https://www.bilibili.com/video/BV1Ya4y1D7et/（ing）
+- **【附加视频】** [https://www.bilibili.com/video/BV1Ya4y1D7et/](https://www.bilibili.com/video/BV1Ya4y1D7et/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=7397b776b1946eeca106501c532db604)（ing）
 - **【附加文档】** http://blog.yuan316.com/course/1/section/1 （ing）
 - **【学习视频】** [Bilibili 教程：FastAPI部署实战](https://www.bilibili.com/video/BV18L41117Dn)  
 - **【学习视频】** https://www.bilibili.com/video/BV1UfWCeREy5
