@@ -18,4 +18,15 @@
 ### 产品化压力测试  （✅）
 - **【压测代码示例】** [CSDN: 大模型压测工具实践](https://blog.csdn.net/liuzhenghua66/article/details/139332747)
 
+## 实战
+
+### 任务描述：部署Qwen1.5-1.8b大模型，并完成部署和访问。
+
+### 要求：
+- 接口采用http接口和websocket长连接两种方式。
+- 完成http接口的压力测试。
+
+### 附加 
+- 模型地址：https://modelscope.cn/models/qwen/Qwen1.5-1.8B-Chat/summary
+
 ## 如有侵权，联系必删，仅用于学习用途，不做任何商业用途。
