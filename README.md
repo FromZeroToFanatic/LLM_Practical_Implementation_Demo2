@@ -6,10 +6,9 @@
 - **【FastAPI 文档】** [https://fastapi.tiangolo.com/zh/tutorial/](https://fastapi.tiangolo.com/zh/tutorial/)  
 - **【附加视频】** https://www.bilibili.com/video/BV1Ya4y1D7et/?spm_id_from=333.1387.homepage.video_card.click&vd_source=7397b776b1946eeca106501c532db604 （ing）
 - **【附加文档】** http://blog.yuan316.com/course/1/section/1 （ing）
-
 - **【学习视频】** [Bilibili 教程：FastAPI部署实战](https://www.bilibili.com/video/BV18L41117Dn)  
-- **【协程学习】** [协程 GitHub 学习资源](https://github.com/SparksFly8/Learning_Python/tree/master/coroutine)
 - **【学习视频】** https://www.bilibili.com/video/BV1UfWCeREy5
+- - **【协程学习】** [协程 GitHub 学习资源](https://github.com/SparksFly8/Learning_Python/tree/master/coroutine)
 - **【websocket教程】** python-websocket_哔哩哔哩_bilibili
 
 ### 实战部署：清华 ChatGLM2-6B 开源大模型
