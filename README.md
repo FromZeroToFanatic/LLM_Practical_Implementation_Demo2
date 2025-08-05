@@ -12,17 +12,10 @@
 - **【协程学习】** [协程 GitHub 学习资源](https://github.com/SparksFly8/Learning_Python/tree/master/coroutine)
 
 ### 清华ChatGLM2-6B开源大模型部署
-
-- **【FastAPI】**  
-  [openai_api.py（官方实现）](https://github.com/THUDM/ChatGLM2-6B/blob/main/openai_api.py)
-
-- **【WebSocket】**  
-  [websocket_api.py（LucienShui 实现）](https://github.com/LucienShui/ChatGLM-6B/blob/main/websocket_api.py)
-
+- **【FastAPI】** [openai_api.py（官方实现）](https://github.com/THUDM/ChatGLM2-6B/blob/main/openai_api.py)
+- **【WebSocket】**  [websocket_api.py（LucienShui 实现）](https://github.com/LucienShui/ChatGLM-6B/blob/main/websocket_api.py)
 
 ### 产品化压力测试  （✅）
-
-- **【压测代码示例】**  
-  [CSDN: 大模型压测工具实践](https://blog.csdn.net/liuzhenghua66/article/details/139332747)
+- **【压测代码示例】** [CSDN: 大模型压测工具实践](https://blog.csdn.net/liuzhenghua66/article/details/139332747)
 
 ## 如有侵权，联系必删
