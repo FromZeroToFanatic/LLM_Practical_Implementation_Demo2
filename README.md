@@ -31,9 +31,9 @@
 - 模型地址：https://modelscope.cn/models/qwen/Qwen2.5-0.5B-Instruct
 - 注意：qwen1.5以后没有stream_chat接口，可以采用TextStreamer来实现相同的流式输出功能，可以参考这里https://qwen.readthedocs.io/zh-cn/latest/inference/transformers.html。
 
-# Qwen2.5 Demo：HTTP + WebSocket 接口部署与压力测试
+## HTTP + WebSocket 接口部署与压力测试
 
-## 项目结构
+### 项目结构
 ```
 /
 ├── app/
@@ -52,28 +52,28 @@
 
 ---
 
-## 环境准备与启动方式
+### 环境准备与启动方式
 
-### 1. 安装依赖
+- 1. 安装依赖
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. 启动 HTTP 接口服务
+- 2. 启动 HTTP 接口服务
 ```bash
 uvicorn app.http_server:app --host 127.0.0.1 --port 8000
 ```
 
-### 3. 启动 WebSocket 服务
+- 3. 启动 WebSocket 服务
 ```bash
 python -m app.websocket_server
 ```
 
 ---
 
-## 接口说明
+### 接口说明
 
-### HTTP 接口
+- HTTP 接口
 
 - **地址**：`http://127.0.0.1:8000/chat`
 - **请求示例**（POST）：
@@ -89,7 +89,7 @@ python -m app.websocket_server
 }
 ```
 
-### WebSocket 接口
+- WebSocket 接口
 
 - **地址**：`ws://127.0.0.1:8765`
 - **发送消息格式**：
@@ -108,19 +108,19 @@ python app/websocket_client.py
 
 ---
 
-## 压力测试说明（参考 CSDN 指南）
+### 压力测试说明（参考 CSDN 指南）
 
-### 脚本路径：
+- 脚本路径：
 ```
 stress_test/http_test.py
 ```
 
-### 启动测试：
+- 启动测试：
 ```bash
 python stress_test/http_test.py
 ```
 
-测试结果示例：
+- 测试结果示例：
 ```
 --- 第 1 个请求 ---
 ✅ 回复：请用一句话介绍你自己。我叫李华，热爱编程与AI...
