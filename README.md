@@ -54,17 +54,17 @@
 
 ### 环境准备与启动方式
 
-- 1. 安装依赖
+ 1. 安装依赖
 ```bash
 pip install -r requirements.txt
 ```
 
-- 2. 启动 HTTP 接口服务
+ 2. 启动 HTTP 接口服务
 ```bash
 uvicorn app.http_server:app --host 127.0.0.1 --port 8000
 ```
 
-- 3. 启动 WebSocket 服务
+ 3. 启动 WebSocket 服务
 ```bash
 python -m app.websocket_server
 ```
@@ -73,7 +73,7 @@ python -m app.websocket_server
 
 ### 接口说明
 
-- HTTP 接口
+HTTP 接口
 
 - **地址**：`http://127.0.0.1:8000/chat`
 - **请求示例**（POST）：
@@ -89,7 +89,7 @@ python -m app.websocket_server
 }
 ```
 
-- WebSocket 接口
+WebSocket 接口
 
 - **地址**：`ws://127.0.0.1:8765`
 - **发送消息格式**：
