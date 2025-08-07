@@ -75,7 +75,7 @@ python -m app.websocket_server
 
 ### HTTP 接口
 
-- **地址**：`http://127.0.0.1:8000/generate`
+- **地址**：`http://127.0.0.1:8000/chat`
 - **请求示例**（POST）：
 ```json
 {
