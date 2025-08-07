@@ -115,16 +115,6 @@ python app/websocket_client.py
 stress_test/http_test.py
 ```
 
-### 默认配置：
-- 并发请求数：10
-- 持续时间：60秒
-
-### 修改参数方式：
-```python
-concurrent_requests = 10  # 并发数
-duration = 60             # 测试时长（秒）
-```
-
 ### 启动测试：
 ```bash
 python stress_test/http_test.py
