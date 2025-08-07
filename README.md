@@ -21,13 +21,14 @@
 ## 实战
 
 ### 任务描述
-部署Qwen1.5-1.8b大模型，并完成部署和访问。
+部署Qwen2.5-0.5B-Instruct大模型，并完成部署和访问。
 
 ### 要求：
 - 接口采用http接口和websocket长连接两种方式。
 - 完成http接口的压力测试。
 
 ### 附加 
-- 模型地址：https://modelscope.cn/models/qwen/Qwen1.5-1.8B-Chat/summary
+- 模型地址：https://modelscope.cn/models/qwen/Qwen2.5-0.5B-Instruct
+- 注意：qwen1.5以后没有stream_chat接口，可以采用TextStreamer来实现相同的流式输出功能，可以参考这里https://qwen.readthedocs.io/zh-cn/latest/inference/transformers.html。
 
 ## 如有侵权，联系必删，仅用于学习用途，不做任何商业用途。
