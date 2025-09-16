@@ -2,7 +2,7 @@
 
 ## 学习资料
 
-### FastAPI 后端框架  （✅）
+### FastAPI 后端框架
 - **【FastAPI 文档】** [https://fastapi.tiangolo.com/zh/tutorial/](https://fastapi.tiangolo.com/zh/tutorial/)  （待）
 - **【附加视频】** [https://www.bilibili.com/video/BV1Ya4y1D7et/](https://www.bilibili.com/video/BV1Ya4y1D7et/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=7397b776b1946eeca106501c532db604)（ing）
 - **【附加文档】** http://blog.yuan316.com/course/1/section/1 （ing）
@@ -13,13 +13,13 @@
 
 ---
 
-### 清华ChatGLM2-6B开源大模型部署  （✅）
+### 清华ChatGLM2-6B开源大模型部署
 - **【FastAPI】** [openai_api.py（官方实现）](https://github.com/THUDM/ChatGLM2-6B/blob/main/openai_api.py)
 - **【WebSocket】**  [websocket_api.py（LucienShui 实现）](https://github.com/LucienShui/ChatGLM-6B/blob/main/websocket_api.py)
 
 ---
 
-### 产品化压力测试  （✅）
+### 产品化压力测试
 - **【压测代码示例】** [CSDN: 大模型压测工具实践](https://blog.csdn.net/liuzhenghua66/article/details/139332747)
 
 ---
